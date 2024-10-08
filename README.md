@@ -1,4 +1,4 @@
-pythonpractice.org
+https://www.practicepython.org/
 Solutions to excercises in pythonpractice.org
 
 Suggestions for improvements to the code and queries are welcome.
